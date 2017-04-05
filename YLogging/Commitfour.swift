@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+public class Commitfour {
+
+    public init() {
+        
+    }
+
+}
